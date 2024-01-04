@@ -1,7 +1,5 @@
-Meine erste Website.
+# Github Actions
 
-Ziel ist, mittels Docker und Github Actions diese Seite auf einem Hetzner Server zum laufen zu bringen.
+Derzeit macht dieses Repo nicht viel mehr als ein Dockerfile zu erzeugen es mittels GitHub Actions in die Docker Regestry zu schieben.
 
-Weitere Ziele folgen dann die Tage :) Stay tuned.
-
-Cheers, Simon
+Primäre möchte ich mir hier anschauen, wie man Secrets sicher injecten kann und wie es funktioniert. Deployments auf remote Servern mittels sicheren Zugriff. ABER das ist noch auf der ToDo Liste.
